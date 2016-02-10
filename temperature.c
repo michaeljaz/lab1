@@ -9,7 +9,7 @@ int main()
 	high = 300;
 	step = 10;
 	printf(" F      C");
-	printf("\n--------------");
+	printf("\n============");
 
 	farenheit = low;
 	while (celsius <= high)
